@@ -1,2 +1,2 @@
-# Chatbot-PRO-I
-Chatbot trabajo cuatri PRO-I
+# Chatbot_PRO-I
+Proyecto CHATBOT para la asignatura de PRO-I
